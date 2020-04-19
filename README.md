@@ -1,2 +1,2 @@
 # Wanderers-Hub
-Photo Gallery 
+Photo Gallery built using Template
